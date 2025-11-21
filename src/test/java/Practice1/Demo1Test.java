@@ -11,6 +11,7 @@ public class Demo1Test {
 	
 	{
 		Reporter.log("Apple",true);
+		Reporter.log("Grapes",true);
 	}
 	
 	
